@@ -1,4 +1,16 @@
-# Blog-App-Mern
-This is an advanced blog application built using the MERN stack (MongoDB, Express.js, React, Node.js) along with Tailwind CSS for styling, Redux Toolkit for state management, JWT token for user authentication, Google Auth for login with Google.
+Blog-App-Mern
 
-This application will allow users to log into the application, view a list of blog posts,read individual blog posts, create, update and delete blog and can view other users blogs and bookmark them. Also one can like and comment on any blog after signing into the application.
+## live demo url
+https://blog-app-mern-drab.vercel.app/
+
+## run this app
+npm start
+
+## Functionalities
+Authentication: Secure user authentication system to protect your blogs.
+Create Blog: Easily create and publish your blogs with a user-friendly interface.
+Delete Blog: Remove unwanted blogs with a simple delete option.
+Update Blog: Edit and update your blogs as your content evolves.
+View Other User Blogs: Explore and read blogs published by other users.
+
+
